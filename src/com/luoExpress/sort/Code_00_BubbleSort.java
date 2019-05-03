@@ -23,18 +23,21 @@ public class Code_00_BubbleSort {
 		arr[i] = arr[i] ^ arr[j];
 	}
 
-	// for test
-	public static void comparator(int[] arr) {
-		Arrays.sort(arr);
-	}
 
-	// for test
-	public static int[] generateRandomArray(int maxSize, int maxValue) {
+
+	// for test 1.准备好样本
+	public static int[] generateRandomArray(int maxSize, int maxValue) {//数组的长度和值都是随机的
+		//先生成一个数组
 		int[] arr = new int[(int) ((maxSize + 1) * Math.random())];
 		for (int i = 0; i < arr.length; i++) {
-			arr[i] = (int) ((maxValue + 1) * Math.random()) - (int) (maxValue * Math.random());
+			arr[i] = (int) ((maxValue + 1) * Math.random()) - (int) (maxValue * Math.random());//可以产生正负值
 		}
 		return arr;
+	}
+
+	// for test  2.准备一个绝对正确的方法
+	public static void comparator(int[] arr) {
+		Arrays.sort(arr);
 	}
 
 	// for test
@@ -81,6 +84,8 @@ public class Code_00_BubbleSort {
 
 	// for test
 	public static void main(String[] args) {
+
+		//3.大样本测试
 		int testTime = 500000;
 		int maxSize = 100;
 		int maxValue = 100;
