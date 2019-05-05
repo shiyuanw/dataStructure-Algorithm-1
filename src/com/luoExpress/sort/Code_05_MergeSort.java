@@ -26,6 +26,7 @@ public class Code_05_MergeSort {
 		int i = 0;
 		int p1 = l;
 		int p2 = m + 1;
+		//从左边和右边部分找到较小的值填入
 		while (p1 <= m && p2 <= r) {
 			help[i++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++];
 		}
