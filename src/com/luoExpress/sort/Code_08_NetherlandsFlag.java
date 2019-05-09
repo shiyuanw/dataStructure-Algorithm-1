@@ -2,13 +2,13 @@ package com.luoExpress.sort;
 
 public class Code_08_NetherlandsFlag {
 
-	public static int[] partition(int[] arr, int l, int r, int p) {
+	public static int[] partition(int[] arr, int l, int r, int num) {
 		int less = l - 1;
 		int more = r + 1;
 		while (l < more) {
-			if (arr[l] < p) {
+			if (arr[l] < num) {
 				swap(arr, ++less, l++);
-			} else if (arr[l] > p) {
+			} else if (arr[l] > num) {
 				swap(arr, --more, l);
 			} else {
 				l++;

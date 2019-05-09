@@ -8,13 +8,15 @@ public class Code_12_SmallSum {
 		}
 		return mergeSort(arr, 0, arr.length - 1);
 	}
-
+//mergeSort返回的是L到R的范围内一共有多少个小和
 	public static int mergeSort(int[] arr, int l, int r) {
 		if (l == r) {
 			return 0;
 		}
-		int mid = l + ((r - l) >> 1);
-		return mergeSort(arr, l, mid) + mergeSort(arr, mid + 1, r) + merge(arr, l, mid, r);
+		int mid = l + ((r - l) >> 1);//(l+r)/2;
+		return mergeSort(arr, l, mid) +//左侧部分排序产生的小和
+				mergeSort(arr, mid + 1, r)+//右侧部分排序产生的小和
+				 merge(arr, l, mid, r);//merge过程中产生的小和
 	}
 
 	public static int merge(int[] arr, int l, int m, int r) {
