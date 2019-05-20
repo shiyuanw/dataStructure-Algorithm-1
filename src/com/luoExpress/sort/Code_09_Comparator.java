@@ -2,6 +2,7 @@ package com.luoExpress.sort;
 
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.PriorityQueue;
 
 public class Code_09_Comparator {
 
@@ -16,7 +17,7 @@ public class Code_09_Comparator {
 			this.age = age;
 		}
 	}
-
+	//如果是负数，返回第一个参数，为正数，返回第二个参数，0 表示2个参数一样大
 	public static class IdAscendingComparator implements Comparator<Student> {
 
 		@Override
@@ -79,6 +80,17 @@ public class Code_09_Comparator {
 
 		Arrays.sort(students, new AgeDescendingComparator());
 		printStudents(students);
+
+		PriorityQueue<Student> heap = new PriorityQueue<>(new IdDescendingComparator());
+		heap.add(student1);
+		heap.add(student2);
+		heap.add(student3);
+		while(!heap.isEmpty()){
+			Student student = heap.poll();
+			System.out.println("Name : " + student.name + ", Id : " + student.id + ", Age : " + student.age);
+
+		}
+
 
 	}
 

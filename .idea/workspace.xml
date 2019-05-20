@@ -6,10 +6,25 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77512122-9c8a-4fc1-95c9-bf9194690edf" name="Default Changelist" comment="nothing changed">
+    <list default="true" id="77512122-9c8a-4fc1-95c9-bf9194690edf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_01_Array_To_Stack_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_02_GetMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_03_StackAndQueueConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_04_DogCatQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_05_RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_06_PrintMatrixSpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_07_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_08_ZigZagPrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_09_FindNumInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_10_PrintCommonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_11_IsPalindromeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_12_SmallerEqualBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_13_CopyListWithRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_14_FindFirstIntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/stack/Code_15_FindOneLessValueIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_08_NetherlandsFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_08_NetherlandsFlag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_12_SmallSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_12_SmallSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_09_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_09_Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_11_MaxGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_11_MaxGap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../travel/target/" />
@@ -25,56 +40,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_04_QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_03_HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_00_BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1124">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_11_MaxGap.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_10_GetAllNotIncluded.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_02_SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="114">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Recursion.java">
+        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/stack/Code_01_Array_To_Stack_Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_05_MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_08_NetherlandsFlag.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="276">
+              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_04_QuickSort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/stack/Code_02_GetMinStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="14" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -82,15 +105,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_12_SmallSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="361">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_09_Comparator.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1463">
+              <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -120,6 +147,9 @@
         <option value="$PROJECT_DIR$/src/com/luoExpress/sort/Code_05_MergeSort.java" />
         <option value="$PROJECT_DIR$/src/com/luoExpress/sort/Code_08_NetherlandsFlag.java" />
         <option value="$PROJECT_DIR$/src/com/luoExpress/sort/Code_12_SmallSum.java" />
+        <option value="$PROJECT_DIR$/src/com/luoExpress/sort/Code_09_Comparator.java" />
+        <option value="$PROJECT_DIR$/src/com/luoExpress/sort/Code_11_MaxGap.java" />
+        <option value="$PROJECT_DIR$/src/com/luoExpress/stack/Code_01_Array_To_Stack_Queue.java" />
       </list>
     </option>
   </component>
@@ -155,9 +185,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="52" />
+    <option name="x" value="48" />
     <option name="y" value="23" />
-    <option name="width" value="1415" />
+    <option name="width" value="1392" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -166,7 +196,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,12 +212,20 @@
               <item name="dataStructure&amp;Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="dataStructure&amp;Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="luoExpress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataStructure&amp;Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataStructure&amp;Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="luoExpress" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,13 +233,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557151727779" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luoExpress/stack" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/luoExpress/stack" />
       <recent name="$PROJECT_DIR$/src/com/luoExpress/sort" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -225,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code_04_QuickSort">
+  <component name="RunManager" selected="Application.Code_00_BubbleSort">
     <configuration name="Code_00_BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luoExpress.sort.Code_00_BubbleSort" />
       <module name="dataStructure&amp;Algorithm" />
@@ -278,8 +319,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpress.sort.Recursion" />
+    <configuration name="Code_09_Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.sort.Code_09_Comparator" />
       <module name="dataStructure&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -367,18 +408,18 @@
     <list>
       <item itemvalue="Application.Code_00_BubbleSort" />
       <item itemvalue="Application.Code_05_MergeSort" />
-      <item itemvalue="Application.Recursion" />
       <item itemvalue="Application.Code_08_NetherlandsFlag" />
-      <item itemvalue="Tomcat Server.Tomcat8.5" />
       <item itemvalue="Application.Code_04_QuickSort" />
+      <item itemvalue="Application.Code_09_Comparator" />
+      <item itemvalue="Tomcat Server.Tomcat8.5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code_00_BubbleSort" />
+        <item itemvalue="Application.Code_09_Comparator" />
         <item itemvalue="Application.Code_04_QuickSort" />
         <item itemvalue="Application.Code_08_NetherlandsFlag" />
         <item itemvalue="Application.Code_05_MergeSort" />
-        <item itemvalue="Application.Code_00_BubbleSort" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +442,10 @@
       <workItem from="1557279327512" duration="2074000" />
       <workItem from="1557339180614" duration="4601000" />
       <workItem from="1557348994108" duration="2598000" />
-      <workItem from="1557358741540" duration="3902000" />
+      <workItem from="1557358741540" duration="4214000" />
+      <workItem from="1557689221658" duration="2394000" />
+      <workItem from="1557701345849" duration="8743000" />
+      <workItem from="1558156913091" duration="6786000" />
     </task>
     <task id="LOCAL-00001" summary="add some commits on insertSort">
       <created>1556829615889</created>
@@ -438,17 +482,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557339342600</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nothing changed">
+      <created>1557425843970</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557425843971</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32238000" />
+    <option name="totallyTimeSpent" value="50473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="23" width="1856" height="877" extended-state="0" />
+    <frame x="64" y="23" width="1856" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13616318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16372657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -459,8 +510,8 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32953367" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3316062" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.49171975" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3312102" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.49171975" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -521,19 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_00_BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_03_HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_11_MaxGap.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_10_GetAllNotIncluded.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -551,46 +589,161 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_09_Comparator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_07_RadixSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_05_MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_12_SmallSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_08_NetherlandsFlag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="152">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_04_QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="380">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_12_SmallSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_09_Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_07_RadixSort.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_03_HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_00_BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1124">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_11_MaxGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/stack/Code_01_Array_To_Stack_Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/stack/Code_02_GetMinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dataStructure&amp;Algorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

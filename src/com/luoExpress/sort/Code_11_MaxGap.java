@@ -23,7 +23,7 @@ public class Code_11_MaxGap {
 		int[] mins = new int[len + 1];
 		int bid = 0;
 		for (int i = 0; i < len; i++) {
-			bid = bucket(nums[i], len, min, max);
+			bid = bucket(nums[i], len, min, max);//确定当前数属于几号桶
 			mins[bid] = hasNum[bid] ? Math.min(mins[bid], nums[i]) : nums[i];
 			maxs[bid] = hasNum[bid] ? Math.max(maxs[bid], nums[i]) : nums[i];
 			hasNum[bid] = true;
