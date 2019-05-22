@@ -1,6 +1,4 @@
-package com.luoExpress.stack;
-
-import java.util.Stack;
+package com.luoExpress.stackandQueue;
 
 public class Code_01_Array_To_Stack_Queue {
 
@@ -25,7 +23,7 @@ public class Code_01_Array_To_Stack_Queue {
 
 		public void push(int obj) {
 			if (size == arr.length) {
-				throw new ArrayIndexOutOfBoundsException("The stack is full");
+				throw new ArrayIndexOutOfBoundsException("The stackandQueue is full");
 			}
 			arr[size++] = obj;
 		}

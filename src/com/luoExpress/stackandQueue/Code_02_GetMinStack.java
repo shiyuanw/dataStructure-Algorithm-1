@@ -1,4 +1,4 @@
-package com.luoExpress.stack;
+package com.luoExpress.stackandQueue;
 
 import java.util.Stack;
 
@@ -23,7 +23,7 @@ public class Code_02_GetMinStack {
 
 		public int pop() {
 			if (this.stackData.isEmpty()) {
-				throw new RuntimeException("Your stack is empty.");
+				throw new RuntimeException("Your stackandQueue is empty.");
 			}
 			int value = this.stackData.pop();
 			if (value == this.getmin()) {
@@ -34,7 +34,7 @@ public class Code_02_GetMinStack {
 
 		public int getmin() {
 			if (this.stackMin.isEmpty()) {
-				throw new RuntimeException("Your stack is empty.");
+				throw new RuntimeException("Your stackandQueue is empty.");
 			}
 			return this.stackMin.peek();
 		}
@@ -63,7 +63,7 @@ public class Code_02_GetMinStack {
 
 		public int pop() {
 			if (this.stackData.isEmpty()) {
-				throw new RuntimeException("Your stack is empty.");
+				throw new RuntimeException("Your stackandQueue is empty.");
 			}
 			this.stackMin.pop();
 			return this.stackData.pop();
@@ -71,7 +71,7 @@ public class Code_02_GetMinStack {
 
 		public int getmin() {
 			if (this.stackMin.isEmpty()) {
-				throw new RuntimeException("Your stack is empty.");
+				throw new RuntimeException("Your stackandQueue is empty.");
 			}
 			return this.stackMin.peek();
 		}

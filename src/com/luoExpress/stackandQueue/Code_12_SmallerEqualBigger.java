@@ -1,4 +1,4 @@
-package com.luoExpress.stack;
+package com.luoExpress.stackandQueue;
 
 public class Code_12_SmallerEqualBigger {
 
