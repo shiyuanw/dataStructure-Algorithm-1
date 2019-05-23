@@ -22,8 +22,8 @@ public class Code_03_StackAndQueueConvert {
 		public int poll() {
 			if (stackPop.empty() && stackPush.empty()) {
 				throw new RuntimeException("Queue is empty!");
-			} else if (stackPop.empty()) {
-				while (!stackPush.empty()) {
+			} else if (stackPop.empty()) {//只有在pop栈中没有东西的情况下，push栈才可以往里倒元素
+				while (!stackPush.empty()) {//保证pushstack中每次倒出元素的时候，要倒完
 					stackPop.push(stackPush.pop());
 				}
 			}
@@ -43,47 +43,47 @@ public class Code_03_StackAndQueueConvert {
 	}
 
 	public static class TwoQueuesStack {
-		private Queue<Integer> queue;
+		private Queue<Integer> data;
 		private Queue<Integer> help;
 
 		public TwoQueuesStack() {
-			queue = new LinkedList<Integer>();
+			data = new LinkedList<Integer>();
 			help = new LinkedList<Integer>();
 		}
-
+		//数据进永远只进data队列
 		public void push(int pushInt) {
-			queue.add(pushInt);
+			data.add(pushInt);
 		}
 
 		public int peek() {
-			if (queue.isEmpty()) {
+			if (data.isEmpty()) {
 				throw new RuntimeException("Stack is empty!");
 			}
-			while (queue.size() != 1) {
-				help.add(queue.poll());
+			while (data.size() != 1) {
+				help.add(data.poll());
 			}
-			int res = queue.poll();
+			int res = data.poll();
 			help.add(res);
 			swap();
 			return res;
 		}
 
 		public int pop() {
-			if (queue.isEmpty()) {
+			if (data.isEmpty()) {
 				throw new RuntimeException("Stack is empty!");
 			}
-			while (queue.size() > 1) {
-				help.add(queue.poll());
+			while (data.size() > 1) {
+				help.add(data.poll());
 			}
-			int res = queue.poll();
+			int res = data.poll();
 			swap();
 			return res;
 		}
-
+		//改变队列的引用
 		private void swap() {
 			Queue<Integer> tmp = help;
-			help = queue;
-			queue = tmp;
+			help = data;
+			data = tmp;
 		}
 
 	}
