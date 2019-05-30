@@ -17,19 +17,19 @@ public class Code_03_SuccessorNode {
 		if (node == null) {
 			return node;
 		}
-		if (node.right != null) {
+		if (node.right != null) {//如果一个节点有右子树
 			return getLeftMost(node.right);
-		} else {
+		} else {//如果一个节点没有右子树
 			Node parent = node.parent;
-			while (parent != null && parent.left != node) {
-				node = parent;
-				parent = node.parent;
+			while (parent != null && parent.left != node) {//parent.left != node当前节点为其父节点的左孩子
+				node = parent;//向上操作
+				parent = node.parent;//向上操作
 			}
 			return parent;
 		}
 	}
 
-	public static Node getLeftMost(Node node) {
+	public static Node getLeftMost(Node node) {//node是某一颗子树的头部
 		if (node == null) {
 			return node;
 		}

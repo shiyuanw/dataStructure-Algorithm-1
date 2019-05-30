@@ -36,7 +36,7 @@ public class Code_04_SerializeAndReconstructTree {
 
 	public static Node reconPreOrder(Queue<String> queue) {
 		String value = queue.poll();
-		if (value.equals("#")) {
+		if (value.equals("#")) {//空树或者叶节点
 			return null;
 		}
 		Node head = new Node(Integer.valueOf(value));
