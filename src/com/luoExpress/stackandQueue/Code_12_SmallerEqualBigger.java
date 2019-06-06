@@ -1,5 +1,8 @@
 package com.luoExpress.stackandQueue;
 
+import java.util.Comparator;
+import java.util.PriorityQueue;
+
 public class Code_12_SmallerEqualBigger {
 
 	public static class Node {
@@ -118,6 +121,12 @@ public class Code_12_SmallerEqualBigger {
 	}
 
 	public static void main(String[] args) {
+		PriorityQueue<Integer> priorityQueue = new PriorityQueue<>(new Comparator<Integer>() {
+			@Override
+			public int compare(Integer o1, Integer o2) {
+				return -1;
+			}
+		});
 		Node head1 = new Node(7);
 		head1.next = new Node(9);
 		head1.next.next = new Node(1);

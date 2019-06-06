@@ -23,6 +23,7 @@ public class Code_13_CopyListWithRandom {
 		}
 		cur = head;
 		while (cur != null) {
+			//map的拷贝节点          //指向cur.next的拷贝节点
 			map.get(cur).next = map.get(cur.next);
 			map.get(cur).rand = map.get(cur.rand);
 			cur = cur.next;

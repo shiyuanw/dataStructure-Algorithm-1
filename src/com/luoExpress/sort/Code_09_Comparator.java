@@ -65,6 +65,7 @@ public class Code_09_Comparator {
 		Student student1 = new Student("A", 1, 23);
 		Student student2 = new Student("B", 2, 21);
 		Student student3 = new Student("C", 3, 22);
+		Student student4 = new Student("D",1,27);
 
 		Student[] students = new Student[] { student3, student2, student1 };
 		printStudents(students);
@@ -85,6 +86,7 @@ public class Code_09_Comparator {
 		heap.add(student1);
 		heap.add(student2);
 		heap.add(student3);
+		heap.add(student4);
 		while(!heap.isEmpty()){
 			Student student = heap.poll();
 			System.out.println("Name : " + student.name + ", Id : " + student.id + ", Age : " + student.age);

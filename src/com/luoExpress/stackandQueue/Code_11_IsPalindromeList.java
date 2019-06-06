@@ -2,6 +2,10 @@ package com.luoExpress.stackandQueue;
 
 import java.util.Stack;
 
+/**
+ * abccba
+ * dddeddd
+ */
 public class Code_11_IsPalindromeList {
 
 	public static class Node {
