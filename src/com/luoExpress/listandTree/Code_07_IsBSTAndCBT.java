@@ -15,7 +15,7 @@ public class Code_07_IsBSTAndCBT {
 		}
 	}
 
-	public static boolean isBST(Node head) {
+	public static boolean isBST(Node head) {//用moris
 		if (head == null) {
 			return true;
 		}
@@ -51,7 +51,7 @@ public class Code_07_IsBSTAndCBT {
 			return true;
 		}
 		Queue<Node> queue = new LinkedList<Node>();
-		boolean leaf = false;
+		boolean leaf = false;//叶节点阶段
 		Node l = null;
 		Node r = null;
 		queue.offer(head);
@@ -59,19 +59,35 @@ public class Code_07_IsBSTAndCBT {
 			head = queue.poll();
 			l = head.left;
 			r = head.right;
-			if ((leaf && (l != null || r != null)) || (l == null && r != null)) {
+			if ((leaf && (l != null || r != null))//
+					||
+					(l == null && r != null)) {//情况1
 				return false;
 			}
-			if (l != null) {
+
+			if(l!=null){
 				queue.offer(l);
 			}
+
 			if (r != null) {
 				queue.offer(r);
-			} else {
-				leaf = true;
 			}
+
+			if (l == null|| r==null) {
+
+				leaf=true;
+			}
+
+//			if (l != null) {
+//				queue.offer(l);
+//			}
+//			if (r != null) {
+//				queue.offer(r);
+//			} else {
+//				leaf = true;
+//			}
 		}
-		return true;
+				return true;
 	}
 
 	// for test -- print tree
