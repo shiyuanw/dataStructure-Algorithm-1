@@ -59,9 +59,10 @@ public class Code_07_IsBSTAndCBT {
 			head = queue.poll();
 			l = head.left;
 			r = head.right;
-			if ((leaf && (l != null || r != null))//
+			//当开启叶节点阶段时，左右孩子必须都是空否则返回false
+			if ((leaf && (l != null || r != null))
 					||
-					(l == null && r != null)) {//情况1
+					(l == null && r != null)) {//情况3
 				return false;
 			}
 

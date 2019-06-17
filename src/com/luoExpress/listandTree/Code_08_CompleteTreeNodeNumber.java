@@ -23,7 +23,7 @@ public class Code_08_CompleteTreeNodeNumber {
 	 *
 	 * @param node 当前节点
 	 * @param level 表示层数
-	 * @param h 表示树的深度
+	 * @param h 表示树的总深度
 	 * @return 以node为头节点的子树一共有多少个节点 常量
 	 */
 	public static int bs(Node node, int level, int h) {
