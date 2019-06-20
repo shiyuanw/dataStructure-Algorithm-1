@@ -7,15 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77512122-9c8a-4fc1-95c9-bf9194690edf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/map/BloomFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/map/Code_01_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/map/Code_02_RandomPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/map/Code_03_Islands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/map/Code_04_UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/map/StaticDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/listandTree/Code_07_IsBSTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/listandTree/Code_07_IsBSTAndCBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/listandTree/Code_08_CompleteTreeNodeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/listandTree/Code_08_CompleteTreeNodeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/map/Code_04_UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/map/Code_04_UnionFind.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../travel/target/" />
@@ -32,32 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_02_RandomPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_01_HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/StaticDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-              <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-              </folding>
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -65,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="773" column="5" lean-forward="true" selection-start-line="773" selection-start-column="5" selection-end-line="773" selection-end-column="5" />
+            <state relative-caret-position="13585">
+              <caret line="773" column="5" selection-start-line="773" selection-start-column="5" selection-end-line="773" selection-end-column="5" />
               <folding>
                 <element signature="e#32010#32011#0" expanded="true" />
                 <element signature="e#32095#32096#0" expanded="true" />
@@ -75,11 +46,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/BloomFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="53" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="53" />
+            <state relative-caret-position="152">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_04_UnionFind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+              <folding>
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#1245#1246#0" expanded="true" />
+                <element signature="e#1287#1288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_03_Islands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-124">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -184,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/com/luoExpress/map/Code_02_RandomPool.java" />
         <option value="$PROJECT_DIR$/src/com/luoExpress/map/BloomFilter.java" />
         <option value="$PROJECT_DIR$/src/com/luoExpress/map/StaticDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/luoExpress/map/Code_04_UnionFind.java" />
+        <option value="$PROJECT_DIR$/src/com/luoExpress/map/Code_03_Islands.java" />
       </list>
     </option>
   </component>
@@ -224,10 +221,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="23" />
-    <option name="width" value="1243" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="50" />
+    <option name="y" value="203" />
+    <option name="width" value="1390" />
     <option name="height" value="697" />
   </component>
   <component name="ProjectView">
@@ -236,7 +233,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,6 +262,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -504,7 +501,8 @@
       <workItem from="1560264766197" duration="6446000" />
       <workItem from="1560461255976" duration="530000" />
       <workItem from="1560653389427" duration="1375000" />
-      <workItem from="1560709011865" duration="4178000" />
+      <workItem from="1560709011865" duration="4882000" />
+      <workItem from="1560962289543" duration="6202000" />
     </task>
     <task id="LOCAL-00001" summary="add some commits on insertSort">
       <created>1556829615889</created>
@@ -604,17 +602,23 @@
       <option name="project" value="LOCAL" />
       <updated>1560281701431</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added map">
+      <created>1560813462494</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560813462495</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116631000" />
+    <option name="totallyTimeSpent" value="123537000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1243" height="697" extended-state="0" />
-    <editor active="true" />
+    <frame x="50" y="203" width="1390" height="697" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2597835" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23516321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -668,7 +672,8 @@
     <MESSAGE value="added comment and added recursion version in isBT" />
     <MESSAGE value="added single list" />
     <MESSAGE value="added comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comment" />
+    <MESSAGE value="added map" />
+    <option name="LAST_COMMIT_MESSAGE" value="added map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -928,6 +933,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_02_RandomPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_01_HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/StaticDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13585">
+          <caret line="773" column="5" selection-start-line="773" selection-start-column="5" selection-end-line="773" selection-end-column="5" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luoExpress/sort/Code_01_InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -963,46 +1000,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="773" column="5" lean-forward="true" selection-start-line="773" selection-start-column="5" selection-end-line="773" selection-end-column="5" />
-          <folding>
-            <element signature="e#32010#32011#0" expanded="true" />
-            <element signature="e#32095#32096#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_01_HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_02_RandomPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/StaticDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/BloomFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="53" />
+        <state relative-caret-position="152">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_04_UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+          <folding>
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luoExpress/map/Code_03_Islands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>
