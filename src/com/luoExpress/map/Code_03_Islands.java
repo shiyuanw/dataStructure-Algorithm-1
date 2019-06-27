@@ -14,7 +14,7 @@ public class Code_03_Islands {
 				if (m[i][j] == 1) {
 					res++;
 					infect(m, i, j, N, M);
-				} 
+				}
 			}
 		}
 		return res;
