@@ -13,9 +13,9 @@ public class Code_02_Less_Money {
 		int sum = 0;
 		int cur = 0;
 		while (pQ.size() > 1) {
-			cur = pQ.poll() + pQ.poll();
-			sum += cur;
-			pQ.add(cur);
+			cur = pQ.poll() + pQ.poll();//每次从堆中拿出2个数
+			sum += cur;//把代价累加起来
+			pQ.add(cur);//把新生成的代价放回堆中
 		}
 		return sum;
 	}
