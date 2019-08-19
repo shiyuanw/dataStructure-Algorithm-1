@@ -6,11 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77512122-9c8a-4fc1-95c9-bf9194690edf" name="Default Changelist" comment="added manacher">
-      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/manacher" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/manacher" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/manacher/Manacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/manacher/ManacherInterview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/manacher/Manacher_ShortestEnd.java" beforeDir="false" />
+    <list default="true" id="77512122-9c8a-4fc1-95c9-bf9194690edf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/manacher/Manacher_ShortestEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manacher/Manacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/manacher/Manacher.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -462,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563589575751</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="added manacher">
+      <created>1566228781204</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1566228781204</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,9 +490,9 @@
     <MESSAGE value="added trie tree &amp; greedy" />
     <MESSAGE value="added commens on trie tree &amp; greedy" />
     <MESSAGE value="added dp" />
-    <MESSAGE value="added manacher" />
     <MESSAGE value="added manacher interview" />
-    <option name="LAST_COMMIT_MESSAGE" value="added manacher interview" />
+    <MESSAGE value="added manacher" />
+    <option name="LAST_COMMIT_MESSAGE" value="added manacher" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

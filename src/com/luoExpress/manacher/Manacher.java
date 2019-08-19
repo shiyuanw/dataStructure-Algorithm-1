@@ -1,4 +1,4 @@
-package manacher;
+package com.luoExpress.manacher;
 
 public class Manacher {
 
