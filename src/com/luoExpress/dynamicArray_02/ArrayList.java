@@ -1,4 +1,4 @@
-package com.luoExpress.dynamicArray;
+package com.luoExpress.dynamicArray_02;
 
 
 @SuppressWarnings("unchecked")
@@ -94,32 +94,32 @@ public class ArrayList<E> {
     /**
      * 在index位置插入一个元素
      * @param index
-     * @param element
-     */
-    public void add(int index, E element) {
-        rangeCheckForAdd(index);
+                * @param element
+                */
+        public void add(int index, E element) {
+            rangeCheckForAdd(index);
 
-        ensureCapacity(size + 1);
+            ensureCapacity(size + 1);
 
-        for (int i = size; i > index; i--) {
-            elements[i] = elements[i - 1];
+            for (int i = size; i > index; i--) {
+                elements[i] = elements[i - 1];
+            }
+            elements[index] = element;
+            size++;
         }
-        elements[index] = element;
-        size++;
-    }
 
-    /**
-     * 删除index位置的元素
-     * @param index
-     * @return
-     */
-    public E remove(int index) {
-        rangeCheck(index);
+        /**
+         * 删除index位置的元素
+         * @param index
+         * @return
+         */
+        public E remove(int index) {
+            rangeCheck(index);
 
-        E old = elements[index];
-        for (int i = index + 1; i < size; i++) {
-            elements[i - 1] = elements[i];
-        }
+            E old = elements[index];
+            for (int i = index + 1; i < size; i++) {//挪动的范围 index+1 到 size-1
+                elements[i - 1] = elements[i];
+            }
         elements[--size] = null;
         return old;
     }

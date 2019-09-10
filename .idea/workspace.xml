@@ -7,9 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77512122-9c8a-4fc1-95c9-bf9194690edf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/window/SlidingWindowMaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/dynamicArray_02/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/dynamicArray_02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/dynamicArray_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/dynamicArray_02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/leetcode/list/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/leetcode/list/_141_hasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/leetcode/list/_206_reverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/leetcode/list/_237_deleteListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/ArrayList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/circle/CircleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/circle/SingleCircleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/single/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/list_03/single/SingleLinkedList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luoExpress/window/AllLessNumSubArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_00_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/sort/Code_00_BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/dynamicArray/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/dynamicArray_02/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/recursionAndDP/Code_02_Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/recursionAndDP/Code_02_Hanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/timeComplexity/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/timeComplexity_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/timeComplexity/Times.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/timeComplexity_01/Times.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,20 +49,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>PriorityQueue</find>
-      <find>zuo</find>
-      <find>comparator</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>dal</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src/com/luoExpress/listandTree</dir>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,7 +76,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557151727779" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luoExpress/recursionAndDP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luoExpress/leetcode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -79,11 +89,11 @@
       <recent name="$PROJECT_DIR$/src/manacher" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/luoExpress/leetcode" />
+      <recent name="$PROJECT_DIR$/src/com/luoExpress/list_03" />
+      <recent name="$PROJECT_DIR$/src/com/luoExpress/dynamicArray_02" />
       <recent name="$PROJECT_DIR$/src/com/luoExpress/recursionAndDP" />
       <recent name="$PROJECT_DIR$/src/com/luoExpress/graphAndTrieTree" />
-      <recent name="$PROJECT_DIR$/src/com/luoExpress/graph" />
-      <recent name="$PROJECT_DIR$/src/com/luoExpress/map" />
-      <recent name="$PROJECT_DIR$/src/com/luoExpress/listandTree" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -104,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code_00_BubbleSort">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="BFPRT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luoExpress.bfprt.BFPRT" />
       <module name="dataStructure&amp;Algorithm" />
@@ -131,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpress.sort.Find" />
+    <configuration name="Code_02_Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.recursionAndDP.Code_02_Hanoi" />
       <module name="dataStructure&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luoExpress.sort.*" />
+          <option name="PATTERN" value="com.luoExpress.recursionAndDP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpress.kmp.KMP" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.dynamicArray_02.Main" />
       <module name="dataStructure&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luoExpress.kmp.*" />
+          <option name="PATTERN" value="com.luoExpress.dynamicArray_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +168,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luoExpress.timeComplexity.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.luoExpress.timeComplexity_01.Main" />
       <module name="dataStructure&amp;Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luoExpress.timeComplexity.*" />
+          <option name="PATTERN" value="com.luoExpress.timeComplexity_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,20 +254,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KMP" />
-      <item itemvalue="Application.Find" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BFPRT" />
-      <item itemvalue="Tomcat Server.Tomcat8.5" />
       <item itemvalue="Application.Code_00_BubbleSort" />
+      <item itemvalue="Application.Code_02_Hanoi" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Tomcat Server.Tomcat8.5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Code_02_Hanoi" />
         <item itemvalue="Application.Code_00_BubbleSort" />
         <item itemvalue="Application.BFPRT" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Find" />
-        <item itemvalue="Application.KMP" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +331,10 @@
       <workItem from="1566239656981" duration="139000" />
       <workItem from="1566852207376" duration="8817000" />
       <workItem from="1567017511201" duration="6826000" />
-      <workItem from="1567136102877" duration="13069000" />
+      <workItem from="1567136102877" duration="29848000" />
+      <workItem from="1567791735177" duration="2410000" />
+      <workItem from="1567868112949" duration="10000" />
+      <workItem from="1567951575522" duration="23739000" />
     </task>
     <task id="LOCAL-00001" summary="add some commits on insertSort">
       <created>1556829615889</created>
@@ -484,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567108946226</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added window">
+      <created>1567533197734</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1567533197734</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +544,9 @@
     <MESSAGE value="added manacher" />
     <MESSAGE value="added Manacher_ShortestEnd" />
     <MESSAGE value="added bfprt &amp; arraylist" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bfprt &amp; arraylist" />
+    <MESSAGE value="added windows" />
+    <MESSAGE value="added window" />
+    <option name="LAST_COMMIT_MESSAGE" value="added window" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

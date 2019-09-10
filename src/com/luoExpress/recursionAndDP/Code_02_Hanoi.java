@@ -72,10 +72,10 @@ public class Code_02_Hanoi {
 	}
 
 	public static void main(String[] args) {
-		int n = 3;
+		int n = 4;
 		//hanoi(n);
 
-		process(3,"left","right","help");
+		process(4,"left","right","help");
 	}
 
 }
