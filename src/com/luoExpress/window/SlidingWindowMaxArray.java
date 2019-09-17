@@ -23,7 +23,7 @@ public class SlidingWindowMaxArray {
             if (qmax.peekFirst() == i-w){
                 qmax.pollFirst();
             }
-            if (i >= w-1) {//窗口形成了
+            if (i >= w-1) {//窗口形成了 数组下标为2时，已经有3个元素 所以w-1
                 res[index++] = arr[qmax.peekFirst()];//把当前的最大值收集到结果集里面
             }
         }
