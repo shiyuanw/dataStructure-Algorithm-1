@@ -3,7 +3,7 @@ package com.luoExpress._00_leetcode.stack;
 import java.util.HashMap;
 import java.util.Stack;
 
-public class _20_ValidPparentheses {
+public class _20_ValidPparentheses { 
 	private static HashMap<Character, Character> map = new HashMap<>();
 	static {
 		// key - value
