@@ -1,6 +1,6 @@
 package com.luoExpress.bfprt;
 
-public class BFPRT {
+public class BFPRT { 
     //O(N)
     public static int[] getMinKNumsByBFPRT(int[] arr,int k) {
         if (k < 1 || k > arr.length) {

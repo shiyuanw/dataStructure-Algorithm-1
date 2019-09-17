@@ -7,6 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77512122-9c8a-4fc1-95c9-bf9194690edf" name="Default Changelist" comment="" />
+    <list default="true" id="77512122-9c8a-4fc1-95c9-bf9194690edf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/luoExpress/bfprt/BFPRT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luoExpress/bfprt/BFPRT.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -327,7 +330,7 @@
       <workItem from="1567951575522" duration="34276000" />
       <workItem from="1568159821949" duration="332000" />
       <workItem from="1568395708191" duration="9462000" />
-      <workItem from="1568568282769" duration="14700000" />
+      <workItem from="1568568282769" duration="14438000" />
     </task>
     <task id="LOCAL-00001" summary="add some commits on insertSort">
       <created>1556829615889</created>
@@ -504,14 +507,7 @@
       <option name="project" value="LOCAL" />
       <updated>1568078053061</updated>
     </task>
-    <task id="LOCAL-00026" summary="added stack">
-      <created>1568686141968</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1568686141969</updated>
-    </task>
-    <option name="localTasksCounter" value="27" />
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,8 +550,7 @@
     <MESSAGE value="added windows" />
     <MESSAGE value="added window" />
     <MESSAGE value="added list" />
-    <MESSAGE value="added stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="added stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="added list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
