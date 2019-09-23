@@ -91,8 +91,8 @@ public class SingleLinkedList<E> extends AbstractList<E> {
 				if (node.element == null) return i;
 				
 				node = node.next;
-			}
-		} else {
+		}
+	} else {
 			Node<E> node = first;
 			for (int i = 0; i < size; i++) {
 				if (element.equals(node.element)) return i;

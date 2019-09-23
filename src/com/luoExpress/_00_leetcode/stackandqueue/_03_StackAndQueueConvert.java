@@ -1,4 +1,4 @@
-package com.luoExpress._00_leetcode.stack;
+package com.luoExpress._00_leetcode.stackandqueue;
 
 import java.util.LinkedList;
 import java.util.Queue;
